@@ -1,6 +1,6 @@
 ## Hello, I'm Kazy!
 
-[Kazy.in](https://kazy.in)
+[My website](https://kazy.in)
 
 [Mastodon](https://bitbang.social/@kazy)
 
